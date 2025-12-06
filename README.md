@@ -19,10 +19,13 @@ Clear (AC) and Delete (DE) functionality
 Real-time input update
 
 Error handling for invalid expressions
+
 📊 Screenshots
+
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/378706b9-8ba3-4993-b2d9-ac3acec4f194" />
 
 
 🚀 How to Run the Project
+
 npm install
 npm start
