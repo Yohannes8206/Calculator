@@ -1,12 +1,15 @@
 
 🧑‍💼 Project Title
+
 A simple and functional calculator built using React JS.
 
 📌 Task Overview
+
 The task was to build a working calculator interface in React that allows users to perform basic math operations, display results, and handle actions like delete and reset.
 
 
 ✅ Features Implemented
+
 Display screen for showing input and results
 
 Number and operator buttons
